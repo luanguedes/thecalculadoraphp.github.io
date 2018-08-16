@@ -1,0 +1,52 @@
+body{
+	background-color: #E0FFFF;
+	text-decoration: none;
+	background-image: url("Imagens/background.jpg");
+	background-size: 800px;
+	padding-top: 150px;
+}
+
+input {
+
+margin: 1px;
+	border-radius: 15px 15px 15px;
+	background-color: #FF69B4;
+	border: 3px solid #9400D3;
+	height: 50px;
+	width: 50px;
+	font-size: 30px;
+	font-family: "Verdana";
+	font-weight: bold;
+	
+}
+input:hover{
+	border-color: purple;
+	color: purple;
+}
+
+#texto{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #FFE4E1;
+	width: 230px;
+}
+
+form{
+	border-radius: 40px 40px 40px;
+	border: 15px solid purple;
+	border-style: ridge;
+	background-color: black;
+	width: 260px;
+	height: 350px;
+	padding-top: 15px;
+	margin-top: 20px;
+}
+h1{
+	margin-top: 20px;
+	font-size: 80px;
+	font-family: "Comic Sans MS";
+	text-shadow: 0 0 20px #FF69B4, 0 -10px 20px #FF69B4, 
+	0 10px 20px #FF69B4, -20px 0 40px #FF69B4, 
+	20px 0 40px #FF69B4; 
+
+}
